@@ -1,12 +1,10 @@
 <div>
   <div align="left">
-    <a href="https://linkedin/in/noahaklem"><img alt="Picture of Noah A Klem" src="public/IMG_1451.JPG" style="width: 180px; height: 180px;">
+    <a href="https://linkedin/in/noahaklem"><img alt="Picture of Noah A Klem" src="public/Banner.png" style="width: 180px; height: 180px;">
     </a>
   </div>
   <div align="right">
-    <p>
     New Flatiron Graduate Software Engineer with 6+ years experience as a Business Leader/Manager enhancing the customer experience, uniting organizational best practices, problem solving and improving business operations. Even with the "new" next to the engineer title, development was never foreign to me in the workplace
-    </p>
   </div>
 </div>
   

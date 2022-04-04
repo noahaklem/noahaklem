@@ -1,11 +1,9 @@
 ### Heeelllooo 👋
 
-<div align="center">
-
- ![](IMG_1451.JPG)
+<a href="https://linkedin/in/noahaklem"><img src="IMG_1451.JPG" width="250" height="250"></a>
   
 
-</div>
+
 <!--
 **noahaklem/noahaklem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

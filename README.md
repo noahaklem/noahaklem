@@ -13,10 +13,10 @@
   
 ## TABLE OF CONTENTS
 
-- [Current Projects](#current_projects)
-- [How to Contact Me](#how_to_contact_me)
-- [Currently Learning](#currently_learning)
-- [Fun Facts](#fun_facts)
+- [Current Projects](#current-projects)
+- [How to Contact Me](#how-to-contact-me)
+- [Currently Learning](#currently-learning)
+- [Fun Facts](#fun-facts)
 
 
 ## CURRENT PROJECTS
@@ -24,6 +24,7 @@
 ### Project 5: Weather Watcher
 <div>
   <p>Single page real time weather application that utilizes the facade design pattern makes two, third party, api calls. Uses asynchronous data fetches to display weather information around the globe!</p>
+  Technology:<p></p>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=jXt9OWJjpkI
   " target="_blank"><img src="http://img.youtube.com/vi/jXt9OWJjpkI/0.jpg" 
   alt="Link to Youtube" width="160" height="120" border="10" /></a>
@@ -32,6 +33,7 @@
 ### Project 4: Cookbook 
 <div>
   <p>A Single Page web application that utilizes RESTful API design principles to allow a person to keep track of all the recipes they have tried on what to try.</p>
+  Technology:<p></p>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=DiMMZbbZolI
   " target="_blank"><img src="http://img.youtube.com/vi/DiMMZbbZolI/0.jpg" 
   alt="Link to Youtube" width="160" height="120" border="10" /></a>
@@ -40,6 +42,7 @@
 ### Project 3: Inventory Tracker
 <div>
   <p>A RESTful multiple page inventory tracking system that utilizes the MVC and CRUD design principles to allow a person to keep track of inventory across multiple warehouses.</p>
+  Technology:<p></p>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=V1Zuzu-lL60
   " target="_blank"><img src="http://img.youtube.com/vi/V1Zuzu-lL60/0.jpg" 
   alt="Link to Youtube" width="160" height="120" border="10" /></a>
@@ -48,6 +51,7 @@
 ### Project 2: Customer Tracker
 <div>
   <p>A simple CRM web application with ActiveRecord and Sinatra backend. Allowing a user to create a customer and update comments.</p>
+  Technology:<p></p>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=Au55WnsW4SA
   " target="_blank"><img src="http://img.youtube.com/vi/Au55WnsW4SA/0.jpg" 
   alt="Link to Youtube" width="160" height="120" border="10" /></a>
@@ -56,10 +60,13 @@
 ### Project 1 Movie Lister
 <div>
   <p></p>
+  Technology:<p></p>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=jXt9OWJjpkI
   " target="_blank"><img src="http://img.youtube.com/vi/jXt9OWJjpkI/0.jpg" 
   alt="Link to Youtube" width="160" height="120" border="10" /></a>
 </div>
+
+[back to top](#table-of-contents)
 
 ## How to Contact Me
 
@@ -81,18 +88,50 @@
   <div>
     <a href="mailto:noahaklem@gmail.com?subject=Hello%20Noah,%20from%20GitHub"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </div>
+
+  [back to top](#table-of-contents)
   
 ## Currently Learning
 
 - ### Amazon AWS <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 - ### PostgreSQL <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
+### Experienced:
+<p align="center">
+
+  Front-end Techologies: <p>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  </p>
+
+
+  Back-end Technologies:<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  </p>  
+</p>
+
+[back to top](#table-of-contents)
+
 ## Fun Facts
  
-- ### Fun Fact #1:
-I am a huge Marvel fan! I think I have every super hereo t-shirt in my closet. #FirstAvenger <img src="public/shield.jpg" height="50" width="50">
+- ### Fun Fact #1
+<p>
+  I am a huge Marvel fan! I think I have every super hereo t-shirt in my closet. #FirstAvenger
+</p>
+
 - ### Fun Fact #2
-I bought my dog on eBay. His name is also, eBay!
+<p>
+  I bought my dog on eBay. His name is also, eBay!
+</p>
 
 [back to top](#table-of-contents)
   

@@ -11,7 +11,7 @@
   </p>
 </div>
   
-## Table of Contents
+## TABLE OF CONTENTS
 
 - [Current Projects](#current_projects)
 - [How to Contact Me](#how_to_contact_me)
@@ -19,9 +19,9 @@
 - [Fun Facts](#fun_facts)
 
 
-## Current Projects
+## CURRENT PROJECTS
 
-Project 5: Weather Watcher
+### Project 5: Weather Watcher
 <div>
   <p>Single page real time weather application that utilizes the facade design pattern makes two, third party, api calls. Uses asynchronous data fetches to display weather information around the globe!</p>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=jXt9OWJjpkI
@@ -29,7 +29,7 @@ Project 5: Weather Watcher
   alt="Link to Youtube" width="160" height="120" border="10" /></a>
 </div>
 
-Project 4: Cookbook 
+### Project 4: Cookbook 
 <div>
   <p>A Single Page web application that utilizes RESTful API design principles to allow a person to keep track of all the recipes they have tried on what to try.</p>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=DiMMZbbZolI
@@ -37,7 +37,7 @@ Project 4: Cookbook
   alt="Link to Youtube" width="160" height="120" border="10" /></a>
 </div>
 
-Project 3: Inventory Tracker
+### Project 3: Inventory Tracker
 <div>
   <p>A RESTful multiple page inventory tracking system that utilizes the MVC and CRUD design principles to allow a person to keep track of inventory across multiple warehouses.</p>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=V1Zuzu-lL60
@@ -45,7 +45,7 @@ Project 3: Inventory Tracker
   alt="Link to Youtube" width="160" height="120" border="10" /></a>
 </div>
 
-Project 2: Customer Tracker
+### Project 2: Customer Tracker
 <div>
   <p>A simple CRM web application with ActiveRecord and Sinatra backend. Allowing a user to create a customer and update comments.</p>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=Au55WnsW4SA
@@ -53,7 +53,7 @@ Project 2: Customer Tracker
   alt="Link to Youtube" width="160" height="120" border="10" /></a>
 </div>
 
-Project 1 Movie Lister
+### Project 1 Movie Lister
 <div>
   <p></p>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=jXt9OWJjpkI
@@ -84,13 +84,15 @@ Project 1 Movie Lister
   
 ## Currently Learning
 
-- ### AWS <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-- ### POSTGRESQL <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+- ### Amazon AWS <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+- ### PostgreSQL <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
 ## Fun Facts
-
-- I am a huge Marvel fan! I think I have every super hereo t-shirt in my closet. #FirstAvenger <img src="public/shield.jpg" height="50" width="50">
-- I bought my dog on eBay. His name is also, eBay!
+ 
+- ### Fun Fact #1:
+I am a huge Marvel fan! I think I have every super hereo t-shirt in my closet. #FirstAvenger <img src="public/shield.jpg" height="50" width="50">
+- ### Fun Fact #2
+I bought my dog on eBay. His name is also, eBay!
 
 [back to top](#table-of-contents)
   

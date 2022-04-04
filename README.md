@@ -21,7 +21,7 @@
 
 ## CURRENT PROJECTS
 
-### Project 5: Weather Watcher
+### <a href='https://github.com/noahaklem/weather-watcher'>Project 5: Weather Watcher (click for Github)</a>
 <div>
   <p>Single page real time weather application that utilizes the facade design pattern makes two, third party, api calls. Uses asynchronous data fetches to display weather information around the globe!</p>
   Technology:<p>
@@ -47,7 +47,7 @@
   alt="Link to Youtube" width="160" height="120" border="10" /></a>
 </div>
 
-### Project 4: Cookbook 
+### <a href='https://github.com/noahaklem/cookbook'>Project 4: Cookbook (click for Github)</a>
 <div>
   <p>A Single Page web application that utilizes RESTful API design principles to allow a person to keep track of all the recipes they have tried on what to try.</p>
   Technology:<p>
@@ -69,7 +69,7 @@
   alt="Link to Youtube" width="160" height="120" border="10" /></a>
 </div>
 
-### Project 3: Inventory Tracker
+### <a href='https://github.com/noahaklem/inventory-tracker'>Project 3: Inventory Tracker (click for Github)</a>
 <div>
   <p>A RESTful multiple page inventory tracking system that utilizes the MVC and CRUD design principles to allow a person to keep track of inventory across multiple warehouses.</p>
   Technology:<p>
@@ -88,7 +88,7 @@
   alt="Link to Youtube" width="160" height="120" border="10" /></a>
 </div>
 
-### Project 2: Customer Tracker
+### <a href='https://github.com/noahaklem/customer-tracker'>Project 2: Customer Tracker (click for Github)</a>
 <div>
   <p>A simple CRM web application with ActiveRecord and Sinatra backend. Allowing a user to create a customer and update comments.</p>
   Technology:<p>
@@ -108,7 +108,7 @@
   alt="Link to Youtube" width="160" height="120" border="10" /></a>
 </div>
 
-### Project 1 Movie Lister
+### <a href='https://github.com/noahaklem/movie-lister'>Project 1 Movie Lister (click for Github)</a>
 <div>
   <p></p>
   Technology:<p></p>
@@ -143,6 +143,7 @@
   [back to top](#table-of-contents)
   
 ## Currently Learning
+I am constantly trying to improve myself. I am excited to start learning these technologies. AWS and PostgreSQL are extremely popular. I cannot wait to add them to the experienced list.
 
 - ### Amazon AWS <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 - ### PostgreSQL <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">

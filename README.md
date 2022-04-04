@@ -31,10 +31,33 @@ Project 2: Customer Tracker
 Project 1 Movie Lister
 
 ## How to Contact Me
-
+   ### Social Media
+   
+  <div>
+    <a target="_blank" href="https://www.linkedin.com/in/noahaklem"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a target="_blank" href="https://www.twitter.com/noahaklem"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  </div>
+    
+  ### Blog
+  
+  <div>
+    <a target="_blank" href="https://www.medium.com/@noahaklem"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  </div>
+   
+  ### Email Me
+  
+  <div>
+    <a href="mailto:noahaklem@gmail.com?subject=Hello%20Noah,%20from%20GitHub"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  </div>
+  
 ## Currently Learning
 
+- ### AWS <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+- ### POSTGRESQL <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+
 ## Fun Facts
+
+- I am a huge Marvel fan! I think I have every super hereo t-shirt in my closet. #FirstAvenger <img src="public/shield.jpg" height="50" width="50">
 
 [back to top](#table-of-contents)
   

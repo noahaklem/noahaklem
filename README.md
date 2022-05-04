@@ -7,7 +7,7 @@
   ## Hello, Everyone! :wave:
   
   <p>
-    <b>New Flatiron Software Engineer graduate</b> with 6+ years experience as a Business Leader/Manager enhancing the customer experience, uniting organizational best practices, problem solving and improving business operations. Even with the "new" next to the engineer title, development was never foreign to me in the workplace.
+    <b>Flatiron Software Engineer</b> with 6+ years experience as a business leader/manager enhancing the customer experience, uniting organizational best practices, problem solving, and improving business operations.
   </p>
 </div>
   

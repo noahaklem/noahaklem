@@ -69,7 +69,7 @@
   alt="Link to Youtube" width="160" height="120" border="10" /></a>
 </div>
 
-### <a href='https://github.com/noahaklem/inventory-tracker'>Project 3: Inventory Tracker (click for Github)</a>
+### <a href='https://github.com/noahaklem/inventory_tracker'>Project 3: Inventory Tracker (click for Github)</a>
 <div>
   <p>A RESTful multiple page inventory tracking system that utilizes the MVC and CRUD design principles to allow a person to keep track of inventory across multiple warehouses.</p>
   Technology:<p>
@@ -88,7 +88,7 @@
   alt="Link to Youtube" width="160" height="120" border="10" /></a>
 </div>
 
-### <a href='https://github.com/noahaklem/customer-tracker'>Project 2: Customer Tracker (click for Github)</a>
+### <a href='https://github.com/noahaklem/customer_tracker'>Project 2: Customer Tracker (click for Github)</a>
 <div>
   <p>A simple CRM web application with ActiveRecord and Sinatra backend. Allowing a user to create a customer and update comments.</p>
   Technology:<p>

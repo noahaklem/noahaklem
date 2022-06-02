@@ -21,7 +21,7 @@
 
 ## CURRENT PROJECTS
 
-### <a href='https://github.com/noahaklem/weather-watcher'>Project 5: Weather Watcher (click for Github)</a>
+### <a href='https://github.com/noahaklem/weather_watcher'>Project 5: Weather Watcher (click for Github)</a>
 <div>
   <p>Single page real time weather application that utilizes the facade design pattern makes two, third party, api calls. Uses asynchronous data fetches to display weather information around the globe!</p>
   Technology:<p>

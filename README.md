@@ -108,7 +108,7 @@
   alt="Link to Youtube" width="160" height="120" border="10" /></a>
 </div>
 
-### <a href='https://github.com/noahaklem/movie-lister'>Project 1 Movie Lister (click for Github)</a>
+### <a href='https://github.com/noahaklem/movie_lister'>Project 1 Movie Lister (click for Github)</a>
 <div>
   <p></p>
   Technology:<p></p>
